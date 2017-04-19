@@ -16,8 +16,8 @@ FROM alpine:latest
 
 MAINTAINER GoCD <go-cd-dev@googlegroups.com>
 
-ARG GOCD_VERSION="17.3.0"
-ARG DOWNLOAD_URL="https://download.gocd.io/binaries/17.3.0-4704/generic/go-server-17.3.0-4704.zip"
+ARG GOCD_VERSION="17.2.0"
+ARG DOWNLOAD_URL="https://download.gocd.io/binaries/17.2.0-4587/generic/go-server-17.2.0-4587.zip"
 ARG GID=1000
 ARG UID=1000
 
